@@ -1,0 +1,26 @@
+{
+  "name": "day73",
+  "version": "0.0.1",
+  "description": "Math Placment server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleacademy/day73.git"
+  },
+  "keywords": [
+    "math",
+    "place",
+    "google",
+    "sheets"
+  ],
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/day73/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/day73#readme"
+}
